@@ -17,7 +17,7 @@
 #include <mmdeviceapi.h>
 #include <endpointvolume.h>
 
-#include "C://ChickenLib/ChickenLib.h"
+#include "ChickenLib.h"
 using namespace std;
 
 class HANDLENUM {
