@@ -4,3 +4,8 @@
 ###### I am still yet to add a scoring system to it, but that will come in the near future (hopefully).
 ###### If you want to compile this for yourself, you will need to have chickenlib.h in the same directory as your code.
 ###### Link to ChickenLib repo: [Click Here](https://github.com/ChickenSquiggles/ChickenLib)
+
+
+
+#### This project is discontinued, because I have created a 2d version usind SDL2, and SDL2 Image.
+##### Link to 2d 2048: [Click Here](https://github.com/ChickenSquiggles/2d2048CPP)
